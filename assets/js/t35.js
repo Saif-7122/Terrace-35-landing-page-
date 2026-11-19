@@ -143,9 +143,8 @@ function bindLeadForm(f, source, waMsgFn) {
                         + ' My number: ' + phone + '.';
 
     var btn = f.querySelector('button[type=submit]'); if (btn) btn.disabled = true;
-    // Open WhatsApp in new tab, then redirect this tab to the thank-you page
-    window.open('https://wa.me/' + WHATSAPP_NUMBER + '?text=' + encodeURIComponent(msg + attribSuffix()), '_blank');
-    setTimeout(function () { window.location.href = 'thank-you.html'; }, 400);
+    // Redirect directly to thank-you page (no WhatsApp popup)
+    window.location.href = 'thank-you.html';
   });
 }
 bindLeadForm($('#heroForm'), 'hero');
