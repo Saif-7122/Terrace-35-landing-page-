@@ -1,0 +1,22 @@
+{
+  "name": "terrace-35-landing-page",
+  "version": "1.0.0",
+  "description": "Terrace 35 Luxury Residences & Sky Duplexes Landing Page by Sri Aditya Homes",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve . -p 8080",
+    "dev": "serve . -p 8080",
+    "build": "echo \"Static site: no build step required\""
+  },
+  "keywords": [
+    "terrace-35",
+    "real-estate",
+    "landing-page",
+    "sri-aditya-homes"
+  ],
+  "author": "Mohammed Saif",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
