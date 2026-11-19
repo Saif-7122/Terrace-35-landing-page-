@@ -12,7 +12,7 @@ var CFG = window.APP_CONFIG || {};
 // Sri Aditya Homes WhatsApp sales number.
 var WHATSAPP_NUMBER = CFG.WHATSAPP_NUMBER || '919000050456';
 // Google Apps Script web app that stores leads. See lead-webhook/Code.gs and config.js.
-var LEAD_WEBHOOK_URL = CFG.LEAD_WEBHOOK_URL || 'https://script.google.com/macros/s/AKfycbzbnOzok7ug8gVotF-5XhZTVRg--Gs_PTG8KAQy-JjGVu80yHUxN-is_kk3ERsS94z9Xg/exec';
+var LEAD_WEBHOOK_URL = CFG.LEAD_WEBHOOK_URL || 'https://script.google.com/macros/s/AKfycbzlHM-cFePsO0CNOwZsUpnNWUM2_ZhSR7mtSOUZBynzRzUqiL1WAlBwY9mm6TJ-Ru9S/exec';
 // Nominal rupee value per lead for Google Ads value-based bidding; 0 = off.
 var LEAD_VALUE = 0;
 
