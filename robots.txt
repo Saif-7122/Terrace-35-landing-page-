@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /lead-webhook/
+Sitemap: https://terrace35.co.in/sitemap.xml

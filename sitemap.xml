@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://terrace35.co.in/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://terrace35.co.in/assets/img/v2/hero-arrival-2000.webp</image:loc>
+      <image:title>Terrace 35, Khajaguda, Hyderabad</image:title></image:image>
+    <image:image><image:loc>https://terrace35.co.in/assets/img/v2/observatory-2000.webp</image:loc>
+      <image:title>The observatory deck at Terrace 35</image:title></image:image>
+    <image:image><image:loc>https://terrace35.co.in/assets/img/v2/tower-aerial-1400.webp</image:loc>
+      <image:title>Terrace 35 tower from above</image:title></image:image>
+    <image:image><image:loc>https://terrace35.co.in/assets/img/v2/rooftop-dining-2000.webp</image:loc>
+      <image:title>Rooftop dining at Terrace 35</image:title></image:image>
+  </url>
+  <url><loc>https://terrace35.co.in/privacy-policy.html</loc><lastmod>2026-08-30</lastmod><priority>0.2</priority></url>
+  <url><loc>https://terrace35.co.in/terms-conditions.html</loc><lastmod>2026-08-30</lastmod><priority>0.2</priority></url>
+</urlset>
